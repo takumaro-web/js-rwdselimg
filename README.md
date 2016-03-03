@@ -1,6 +1,13 @@
 # jquery-rwdselimg.js 1.0.0
 jQuery plug-in for responsive web design.
 
+## sample
+###windowsize: 641px over  
+        img src="hogehoge_pc.jpg"  
+  
+###windowsize: 640px and under  
+        img src="hogehoge_sp.jpg"
+
 ##How to use
 
 ###HTML (options)
@@ -8,8 +15,8 @@ jQuery plug-in for responsive web design.
     <script src="jquery-rwdselimg.js"></script>    
     <script>
       $('.js-rwdImg').rwdSelImg({
-        imgName1 : '_p', //image path
-        imgName2 : '_s', //image path
+        imgName1 : '_p', //image path sample: hogehoge_p.png
+        imgName2 : '_s', //image path sample: fugafuga_s.png
         targetWidth: 640 //window size
       });
     </script>
