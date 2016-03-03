@@ -3,10 +3,10 @@ jQuery plug-in for responsive web design.
 
 ## sample
 ###windowsize: 641px over  
-        img src="hogehoge_pc.jpg"  
+        <img src="hogehoge_pc.jpg" alt="">
   
 ###windowsize: 640px and under  
-        img src="hogehoge_sp.jpg"
+        <img src="hogehoge_sp.jpg" alt="">
 
 ##How to use
 
