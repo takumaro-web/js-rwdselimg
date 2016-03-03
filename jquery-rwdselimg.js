@@ -1,6 +1,6 @@
 /* ----------------------------------------------------------------------------------
  *  jquery-rwdselimg.js 1.0.0　MIT-style license.
- *  2016 @paradox_tm takumaro-web　https://github.com/takumaro-web/jquery-rwdselimg.js
+ *  2016 @paradox_tm takumaro-web　https://github.com/takumaro-web/js-rwdselimg/
   ---------------------------------------------------------------------------------- */
 
 (function($) {
